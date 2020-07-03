@@ -88,7 +88,7 @@ export default {
   name: 'index',
   data () {
     return {
-      msg: 'Teste Full Stack Qualicorp'
+      msg: 'Teste Full Stack Qualicor'
     }
   }
 }
