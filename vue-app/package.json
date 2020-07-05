@@ -10,6 +10,8 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "axion": "^0.1.0",
+    "bootstrap": "^4.5.0",
     "git": "^0.1.5",
     "vue": "^2.5.2"
   },
@@ -58,5 +60,7 @@
     "> 1%",
     "last 2 versions",
     "not ie <= 8"
-  ]
+  ],
+  "main": ".postcssrc.js",
+  "license": "ISC"
 }
